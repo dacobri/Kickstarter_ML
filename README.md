@@ -9,13 +9,7 @@ Predicting whether a Kickstarter crowdfunding campaign will reach its funding go
 
 ## Authors
 
-| Name | Role |
-|---|---|
-| **Brice Da Costa** | Data cleaning, EDA, feature engineering, modelling |
-| **Baran Erdogan** | Data cleaning, EDA, feature engineering |
-| **Mats Hoffmann** | Critical reflection, fairness analysis, business recommendations |
-| **Maria Angelica Mora Zamora** | Report writing, project documentation |
-| **Hiroaki Nakano** | Data cleaning, feature engineering |
+Brice Da Costa · Baran Erdogan · Mats Hoffmann · Maria Angelica Mora Zamora · Hiroaki Nakano
 
 ---
 
