@@ -1,7 +1,0 @@
-model,roc_auc,f1_binary,precision,recall,pr_auc
-Neural Network,0.6937,0.8362,0.7779,0.904,0.7879
-Logistic Regression,0.6785,0.7916,0.7751,0.8087,0.7912
-Random Forest,0.6221,0.7867,0.775,0.7988,0.7454
-XGBoost,0.6125,0.8076,0.7692,0.8501,0.7378
-Gradient Boosting,0.5976,0.8093,0.7661,0.8578,0.7051
-Decision Tree,0.5232,0.668,0.7159,0.6261,0.6909
