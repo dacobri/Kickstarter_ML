@@ -22,3 +22,6 @@ env/
 # IDE
 .vscode/
 .idea/
+
+# Large model files (run train_model.py to generate)
+streamlit_app/artifacts/rf_model.joblib
