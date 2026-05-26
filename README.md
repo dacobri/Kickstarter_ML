@@ -2,9 +2,6 @@
 
 Predicting whether a Kickstarter crowdfunding campaign will reach its funding goal using **only pre-launch information** — a binary classification project built with scikit-learn and XGBoost on 160,000+ real campaigns.
 
-> **Course:** Artificial Intelligence II — ESADE Business School (MSc Business Analytics)
-> **Date:** March 2026
-
 ---
 
 ## Authors
